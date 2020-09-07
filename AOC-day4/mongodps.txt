@@ -1,0 +1,4 @@
+"\bin".\mongod.exe --dbpath="C:\Users\RAMNEEK SINGH\mongodb-data"
+"C:\Program Files\MongoDB\Server\4.4\bin\mongod.exe" --dbpath="c:\data\db"
+/Users/alejo.boga/mongodb/bin/mongod.exe --dbpath=/Users/alejo.boga/mongodb-data
+C:"\Users\RAMNEEK SINGH\mongodb\bin"
